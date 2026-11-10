@@ -1,0 +1,55 @@
+{
+  "qa_score": 1.0,
+  "questions": 5,
+  "stale_trap_hits": 0,
+  "errors": 0,
+  "by_category": {
+    "current_value": {
+      "n": 1,
+      "score": 1.0
+    },
+    "should_refuse": {
+      "n": 1,
+      "score": 1.0
+    },
+    "stale_trap": {
+      "n": 2,
+      "score": 1.0
+    },
+    "temporal_as_of": {
+      "n": 1,
+      "score": 1.0
+    }
+  },
+  "consistency": {
+    "paraphrase_groups": 1,
+    "paraphrase_consistency": 1.0,
+    "repeat_checks": 5,
+    "repeat_consistency": 1.0,
+    "score": 1.0
+  },
+  "speed": {
+    "p50_s": 0.0,
+    "p95_s": 0.01,
+    "max_s": 0.01,
+    "score": 1.0
+  },
+  "conflicts": {
+    "gold": 1,
+    "submitted": 1,
+    "matched": 1,
+    "recall": 1.0,
+    "precision": 1.0,
+    "f1": 1.0,
+    "resolution_accuracy": 1.0
+  },
+  "pillars": {
+    "accuracy": 1.0,
+    "consistency": 1.0,
+    "speed": 1.0,
+    "conflicts": 1.0
+  },
+  "final_score": 1.0,
+  "ingest_seconds": 0.0,
+  "ingest_over_limit": false
+}

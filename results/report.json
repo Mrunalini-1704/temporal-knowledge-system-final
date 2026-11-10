@@ -1,0 +1,65 @@
+{
+  "qa_score": 0.9457,
+  "questions": 40,
+  "stale_trap_hits": 0,
+  "errors": 0,
+  "by_category": {
+    "branch_info": {
+      "n": 6,
+      "score": 1.0
+    },
+    "conflict_resolution": {
+      "n": 3,
+      "score": 1.0
+    },
+    "current_value": {
+      "n": 3,
+      "score": 1.0
+    },
+    "entity_attribution": {
+      "n": 4,
+      "score": 1.0
+    },
+    "list_completeness": {
+      "n": 4,
+      "score": 0.75
+    },
+    "should_refuse": {
+      "n": 3,
+      "score": 1.0
+    },
+    "stale_trap": {
+      "n": 7,
+      "score": 1.0
+    },
+    "temporal_as_of": {
+      "n": 4,
+      "score": 0.75
+    },
+    "tier_disambiguation": {
+      "n": 6,
+      "score": 1.0
+    }
+  },
+  "consistency": {
+    "paraphrase_groups": 20,
+    "paraphrase_consistency": 1.0,
+    "repeat_checks": 20,
+    "repeat_consistency": 1.0,
+    "score": 1.0
+  },
+  "speed": {
+    "p50_s": 0.01,
+    "p95_s": 0.54,
+    "max_s": 0.58,
+    "score": 1.0
+  },
+  "pillars": {
+    "accuracy": 0.9457,
+    "consistency": 0.9457,
+    "speed": 0.9457
+  },
+  "final_score": 0.9457,
+  "ingest_seconds": 13.2,
+  "ingest_over_limit": false
+}

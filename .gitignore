@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Private assessment data and generated source-bearing outputs
+/snapshots/
+/snapshots_zip/
+/results/per_question.jsonl
+/Knowledge-Hackathon-Assignment.pdf

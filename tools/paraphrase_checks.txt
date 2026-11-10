@@ -1,0 +1,100 @@
+4.10|How much APY does the 17 month certificate special earn?
+4.10|17-month CD special yield?
+7.13;7.25|What's the going rate on a 30 year fixed home loan?
+7.13;7.25|30-year fixed mortgage interest rate please
+7.13|Show me your current home loan rates
+7.13|What are today's mortgage rates?
+5.39|Rate for a 60 month car loan on a 2025 model?
+5.39|I'm buying a 2026 car and want a 5-year loan. What APR?
+12.5;20.5;15.5|List all your credit cards with their interest rates
+12.5;15.5|What are the APRs on your Visa cards?
+0.15|What's the dividend rate for Share Savings if I have $15,000?
+0.15|Share savings rate for a balance of 10,000 to 24,999 dollars
+273974581|What routing number should I use for direct deposit?
+273974581|routing #?
+8:30|When are your branches open?
+8:30|What time does the lobby open?
+8 a.m.;6 p.m.|When is the drive-thru open?
+11375 Oldenburg;61036|Where is the Galena branch?
+11375 Oldenburg;61036|Galena branch address
+22|How many branch locations does Dupaco have?
+22|Number of Dupaco branches?
+March 31; 2026|Did the Hy-Vee branch close?
+March 31; 2026|What happened to the Hy-Vee branch?
+fifth|How many times has Forbes recognized Dupaco?
+fifth|Has Dupaco been ranked by Forbes?
+dupaco.com/personal/savings-account|Where on the website can I find certificate rates?
+dupaco.com/personal/savings-account|Give me the URL for share certificate rates
+2.50|What is the interest rate on checking accounts?
+2.50|What does 1st Rate Checking pay?
+12.5|What's the regular APR on the Platinum Visa card?
+12.5|Platinum Visa purchase rate?
+REFUSE|What's the rate on a 5/1 ARM?
+REFUSE|What is your adjustable-rate mortgage rate?
+REFUSE|What's the construction loan APR?
+REFUSE|What are the hours for the Mullan Avenue branch?
+REFUSE|What's the address of your Chicago branch?
+2.25|What is the Bright Savings APY?
+2.25|How much does Bright Savings pay?
+dupaco.com/contact|Link to find a branch or ATM near me
+dupaco.com/contact|What's the branch locator website?
+0.20|What is the top APY for Share Savings?
+0.20;25,000|Which Share Savings tier pays the most?
+15,000|How much assistance does Home$tart provide?
+15,000|Tell me about the Home$tart grant
+10.49|36 month personal loan APR?
+10.49|What's the rate on a three-year personal loan?
+Key West;Sycamore|Where should Hy-Vee branch members bank now?
+3.90|What was the 10-month jumbo certificate special APY in May 2026?@2026-05-31
+3.90|10 month jumbo CD rate as of May 20, 2026@2026-05-20
+5.59|84 month auto loan rate for a 2024 vehicle?
+5.59|What's the APR on a 7-year loan for a 2025 truck?
+Iowa;Illinois;Wisconsin|Can I join Dupaco?
+Iowa;Illinois;Wisconsin|What are the membership requirements?
+800-373-7600|How do I change my address with Dupaco?
+800-373-7600|How do I update my phone number on my account?
+Apple Pay;Google Pay;Samsung Pay|Does Dupaco support Apple Pay?
+Apple Pay;Google Pay;Samsung Pay|Which mobile wallets can I use with my Dupaco card?
+join.dupaco.com|Can I open a membership online?
+join.dupaco.com|Where do I apply to become a member?
+student loan|Do you have loans for college students?
+4.20|How much does the 17-month jumbo CD pay?
+3.40|What is the 12-month certificate rate?
+2.90|What was the 12-month certificate APY in May 2026?@2026-05-15
+REFUSE|What is the rate on a 60-month jumbo certificate?
+1.80|What is the 5 year certificate rate?
+2.10|What is the dividend rate on a 36 month share certificate?
+2.70|What rate does the Roth IRA 18-month certificate pay?
+0.35|What's the APY on Investor's Choice money market with $50,000?
+2.05|What does the High-Yield Savings account pay on $300,000?
+0.30|What's the HSA rate for a $12,000 balance?
+3.25|What is the Launchpad Savings rate?
+2.50|What is the APY on 1st Rate Checking with $10,000?
+5.79|What is the auto loan rate for a 72-month loan on a 2022 car?
+8.59|What is the APR on a 2015 used car loan?
+5.19|What was the 60-month auto loan rate for a 2025 model year as of May 2026?@2026-05-20
+6.25|What is the HELOC rate?
+7.24|What is the home equity loan rate for 10 years?
+6.75;6.88|What's the 15-year fixed mortgage rate?
+7.32|What is the 30-year mortgage rate for a $250,000 loan?
+REFUSE|What is the jumbo mortgage rate?
+8.75|What is the rate for a home improvement loan of $30,000?
+12.49|What is the personal loan rate for 60 months?
+9.59|What's the boat loan rate for $30,000 over 120 months?
+8.34|What is the snowmobile loan rate for a 2024 model for 48 months?
+15.50;21.00|What is the Rewards Visa APR?
+2.90|What is the balance transfer rate on the Platinum Visa?
+15.50|What is the Business Platinum Visa rate?
+20.50|What's the Business Rewards Visa APR?
+2.50|What is the rate on business 1st Rate Checking with $10,000?
+REFUSE|What's the rate for a business real estate loan?
+REFUSE|What is the rate for an SBA loan?
+REFUSE|What is the land loan rate?
+720|What's the minimum credit score for the HELOC rate?
+5.39;5.19|Has the 60-month auto loan rate for a 2025 car gone up since May?
+800-373-7600|What is the phone number for Dupaco?
+1100 E. Business Highway 151|Where is the Platteville branch located?
+185 Peosta St|What is the address of the Peosta branch?
+118 counties|How many counties does Dupaco serve?
+1948|When was Dupaco founded?
+Platinum Visa;Rewards Visa;Business Platinum Visa;Business Rewards Visa|What credit cards do you offer?
